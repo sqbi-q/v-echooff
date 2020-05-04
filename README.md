@@ -12,7 +12,7 @@ git clone https://github.com/sqbi-q/v-echooff
 
 ## Usage
 
-Paste echo folder to your's project, and then import module echo.
+Paste echo folder to your project, and then import module echo.
 
 **Project tree:**
 ```
